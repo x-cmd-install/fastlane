@@ -1,0 +1,64 @@
+about:
+  description: 🚀 The easiest way to automate building and releasing your iOS and Android apps
+  license: MIT
+  homepage: https://fastlane.tools
+  head: c1df394
+  archived: false
+  latestVersion: 2.238.0
+  collectedAt: 2026-09-02T04:20:33Z
+timeline:
+  created: 2014-12-02
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-12
+popularity:
+  star: 42044
+  watcher: 722
+  fork: 6025
+  release: 568
+  contributor: 1375
+  pullRequest: 1410
+  issue: 13307
+language:
+  Ruby: 6910201
+  Swift: 1181869
+  HTML: 84489
+  Objective-C: 57807
+  Shell: 51175
+  Java: 50658
+  Lua: 228
+  C: 207
+  JavaScript: 39
+totalLine: 8336673
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 15
+    openPR: 2
+    closedIssue: 7
+    openIssue: 1
+    commit: 26
+  last90d:
+    since: 2026-06-04
+    release: 4
+    mergedPR: 61
+    openPR: 7
+    closedIssue: 15
+    openIssue: 4
+    commit: 92
+  last180d:
+    since: 2026-03-06
+    release: 8
+    mergedPR: 116
+    openPR: 12
+    closedIssue: 42
+    openIssue: 9
+    commit: 185
+  last360d:
+    since: 2025-09-07
+    release: 16
+    mergedPR: 223
+    openPR: 19
+    closedIssue: 102
+    openIssue: 27
+    commit: 301
