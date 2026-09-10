@@ -78,14 +78,14 @@
   "body": "* [supply] list google play releases (#30000) via Tim Shedor (@tshedor)\n* [sigh] Fix duplicate prefix in application-identifier entitlement during resign (#30169) via Shubhransh Gupta (@shubhransh-gupta)\n* [Ruby] Ruby 3.1 is now the minimum (dropping Ruby 3.0) (#30120) via Connor Tumbleson (@iBotPeaches)\n* [deliver/pilot] support app coverage files (#30153) via Connor Tumbleson (@iBotPeaches)\n* [match] prevent leaking keys if invalid usage (#30161) via Connor Tumbleson (@iBotPeaches)\n* [meta] set pr template to drop reference to CircleCI (#30162) via Connor Tumbleson (@iBotPeaches)\n* [deliver] prevent duplicate image uploads (#30150) via Connor Tumbleson (@iBotPeaches)\n* [match] Remove command on failure to prevent secret exposure for git storage. (#30165) via Aleksandr B (@sozzjilly)\n* [pem] Add support for VoIP Services push certificates (#30166) via Rafael da Rosa Ferreira (@Rafinha-rf)\n* harden: detected non-static command inside system in... (#30147) via Anupam Mediratta (@anupamme)\n* [changelog_from_git_commits] Add optional argument to filter commits. (#14441) via Juan A. Romero (@rukano)\n* [sh_helper] fix output stripping - invalid byte sequence in UTF-8 (ArgumentError) (#20539) via Wendy Liga (@wendyliga)\n* [ci] move release workflows to Ruby 3.4 (#30155) via Connor Tumbleson (@iBotPeaches)\n* [gems] move to json 2.21.x (#30156) via Connor Tumbleson (@iBotPeaches)",
   "reactions": {
     "url": "https://api.github.com/repos/fastlane/fastlane/releases/382944125/reactions",
-    "total_count": 4,
-    "+1": 2,
+    "total_count": 6,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 2,
+    "rocket": 3,
     "eyes": 0
   },
   "mentions_count": 8
