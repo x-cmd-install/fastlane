@@ -7,7 +7,7 @@ about:
   latestVersion: "2.239.0"
   latestRelease: "2.239.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:24:24Z
+  collectedAt: 2026-09-11T19:33:41Z
 timeline:
   created: 2014-12-02
   lastCommit: 2026-09-11
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 
 popularity:
-  star: 42098
+  star: 42104
   watcher: 724
-  fork: 6028
+  fork: 6029
   release: 569
   contributor: 1371
-  pullRequest: 7914
-  issue: 13314
+  pullRequest: 7926
+  issue: 13316
 language:
   Ruby: 6931602
   Swift: 1185678
@@ -38,60 +38,60 @@ recent:
     since: 2026-08-12
     release: 2
     mergedPR: 17
-    openPR: 5
-    closedIssue: 5
-    openIssue: 6
+    openPR: 17
+    closedIssue: 6
+    openIssue: 7
     commit: 27
   last60d:
     since: 2026-07-13
     release: 2
     mergedPR: 35
-    openPR: 6
-    closedIssue: 10
-    openIssue: 8
+    openPR: 18
+    closedIssue: 11
+    openIssue: 9
     commit: 57
   last90d:
     since: 2026-06-13
     release: 3
     mergedPR: 64
-    openPR: 9
-    closedIssue: 15
-    openIssue: 10
+    openPR: 21
+    closedIssue: 16
+    openIssue: 11
     commit: 98
   last180d:
     since: 2026-03-15
     release: 9
     mergedPR: 125
-    openPR: 12
-    closedIssue: 41
-    openIssue: 14
+    openPR: 24
+    closedIssue: 42
+    openIssue: 15
     commit: 190
   last360d:
     since: 2025-09-16
     release: 17
     mergedPR: 235
-    openPR: 20
-    closedIssue: 103
-    openIssue: 32
+    openPR: 32
+    closedIssue: 104
+    openIssue: 33
     commit: 312
   last720d:
     since: 2024-09-21
     release: 26
     mergedPR: 293
-    openPR: 50
-    closedIssue: 237
-    openIssue: 130
+    openPR: 62
+    closedIssue: 238
+    openIssue: 131
     commit: 328
 total:
   release: 569
   mergedPR: 6503
-  openPR: 151
-  closedIssue: 12795
-  openIssue: 519
+  openPR: 163
+  closedIssue: 12796
+  openIssue: 520
   commit: 16934
 ---
 path: /home/runner/.x-repo/github.com/fastlane/fastlane
-collectedAt: 2026-09-11T05:24:32Z
+collectedAt: 2026-09-11T19:33:48Z
 loc:
   Json:
     code: 465323
