@@ -14,12 +14,12 @@ x install fastlane
 
 ## Code insight
 
-Total: **615,934** lines of code across **1775** files in the top 5 languages.
+Total: **616,173** lines of code across **1776** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 465,323 | 0 | 216 | 348 |
-| Ruby | 131,057 | 11,014 | 24,860 | 1300 |
+| Ruby | 131,253 | 11,246 | 24,902 | 1301 |
 | Swift | 13,812 | 5,552 | 1,746 | 75 |
 | RubyHtml | 1,683 | 12 | 174 | 30 |
 | Java | 978 | 258 | 251 | 22 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,104 · **Forks**: 6,029 · **Open issues**: 13,316 · **Contributors**: 1,371
+- **Stars**: 42,103 · **Forks**: 6,030 · **Open issues**: 13,316 · **Contributors**: 1,371
 
 ## Totals (cumulative)
 
-- **Releases**: 569 · **Merged PRs**: 6503 · **Open PRs**: 163 · **Closed issues**: 12796 · **Open issues**: 520 · **Commits**: 16934
+- **Releases**: 569 · **Merged PRs**: 6510 · **Open PRs**: 156 · **Closed issues**: 12797 · **Open issues**: 519 · **Commits**: 16941
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 17 | 17 | 6 | 7 | 27 |
-| last60d | 2026-07-13 | 2 | 35 | 18 | 11 | 9 | 57 |
-| 90d | 2026-06-13 | 3 | 64 | 21 | 16 | 11 | 98 |
-| last180d | 2026-03-15 | 9 | 125 | 24 | 42 | 15 | 190 |
-| 360d | 2025-09-16 | 17 | 235 | 32 | 104 | 33 | 312 |
-| last720d | 2024-09-21 | 26 | 293 | 62 | 238 | 131 | 328 |
+| 30d | 2026-08-13 | 1 | 22 | 10 | 7 | 6 | 34 |
+| last60d | 2026-07-14 | 2 | 42 | 11 | 12 | 8 | 64 |
+| 90d | 2026-06-14 | 3 | 71 | 14 | 17 | 10 | 105 |
+| last180d | 2026-03-16 | 9 | 132 | 17 | 43 | 14 | 197 |
+| 360d | 2025-09-17 | 17 | 242 | 25 | 104 | 32 | 319 |
+| last720d | 2024-09-22 | 26 | 299 | 55 | 239 | 130 | 335 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:33:54Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:22:23Z._
