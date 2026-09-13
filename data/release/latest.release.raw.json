@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1192448,
       "digest": "sha256:6d99c0ea639f44fd4ebb53d442e5557e9a64159e6ca60ba1f38517cfe02c5689",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-09-04T18:40:34Z",
       "updated_at": "2026-09-04T18:40:34Z",
       "browser_download_url": "https://github.com/fastlane/fastlane/releases/download/2.239.0/fastlane-2.239.0.gem"
