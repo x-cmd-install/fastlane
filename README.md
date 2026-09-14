@@ -14,12 +14,12 @@ x install fastlane
 
 ## Code insight
 
-Total: **621,694** lines of code across **1779** files in the top 5 languages.
+Total: **621,715** lines of code across **1779** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 470,513 | 0 | 216 | 351 |
-| Ruby | 131,377 | 11,352 | 24,946 | 1301 |
+| Ruby | 131,398 | 11,352 | 24,950 | 1301 |
 | Swift | 13,812 | 5,552 | 1,746 | 75 |
 | RubyHtml | 1,683 | 12 | 174 | 30 |
 | Java | 978 | 258 | 251 | 22 |
@@ -43,42 +43,33 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.239.0` (2026-09-04)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 42,106 · **Forks**: 6,030 · **Open issues**: 13,319 · **Contributors**: 1,371
+- **Stars**: 42,108 · **Forks**: 6,029 · **Open issues**: 13,319 · **Contributors**: 1,371
 
 ## Totals (cumulative)
 
-- **Releases**: 569 · **Merged PRs**: 6521 · **Open PRs**: 151 · **Closed issues**: 12800 · **Open issues**: 519 · **Commits**: 16951
+- **Releases**: 569 · **Merged PRs**: 6522 · **Open PRs**: 154 · **Closed issues**: 12801 · **Open issues**: 518 · **Commits**: 16952
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 33 | 4 | 8 | 6 | 38 |
-| last60d | 2026-07-15 | 2 | 53 | 6 | 15 | 8 | 68 |
-| 90d | 2026-06-15 | 3 | 80 | 8 | 20 | 10 | 109 |
-| last180d | 2026-03-17 | 9 | 143 | 12 | 46 | 13 | 203 |
-| 360d | 2025-09-18 | 17 | 253 | 20 | 107 | 32 | 329 |
-| last720d | 2024-09-23 | 26 | 310 | 49 | 239 | 130 | 345 |
+| 30d | 2026-08-15 | 1 | 32 | 6 | 8 | 6 | 39 |
+| last60d | 2026-07-16 | 2 | 51 | 9 | 16 | 7 | 69 |
+| 90d | 2026-06-16 | 3 | 79 | 11 | 21 | 9 | 110 |
+| last180d | 2026-03-18 | 9 | 144 | 15 | 47 | 12 | 204 |
+| 360d | 2025-09-19 | 17 | 254 | 23 | 108 | 31 | 330 |
+| last720d | 2024-09-24 | 26 | 311 | 52 | 239 | 128 | 346 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [fastlane-2.239.0.gem](https://github.com/fastlane/fastlane/releases/download/2.239.0/fastlane-2.239.0.gem) | 1.1 MiB | `other` |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/fastlane). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.239.0` | ✅ latest |
-| Nix unstable | `2.232.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -89,4 +80,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:41:09Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:59:37Z._
