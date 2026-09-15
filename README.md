@@ -14,13 +14,13 @@ x install fastlane
 
 ## Code insight
 
-Total: **621,715** lines of code across **1779** files in the top 5 languages.
+Total: **621,957** lines of code across **1779** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 470,513 | 0 | 216 | 351 |
-| Ruby | 131,398 | 11,352 | 24,950 | 1301 |
-| Swift | 13,812 | 5,552 | 1,746 | 75 |
+| Ruby | 131,601 | 11,416 | 25,006 | 1301 |
+| Swift | 13,851 | 5,564 | 1,752 | 75 |
 | RubyHtml | 1,683 | 12 | 174 | 30 |
 | Java | 978 | 258 | 251 | 22 |
 
@@ -42,34 +42,34 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.239.0` (2026-09-04)
-- **Last commit**: 2026-09-13
+- **Latest**: `2.240.0` (2026-09-14)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 42,108 · **Forks**: 6,029 · **Open issues**: 13,319 · **Contributors**: 1,371
+- **Stars**: 42,112 · **Forks**: 6,031 · **Open issues**: 13,321 · **Contributors**: 1,372
 
 ## Totals (cumulative)
 
-- **Releases**: 569 · **Merged PRs**: 6522 · **Open PRs**: 154 · **Closed issues**: 12801 · **Open issues**: 518 · **Commits**: 16952
+- **Releases**: 570 · **Merged PRs**: 6532 · **Open PRs**: 149 · **Closed issues**: 12803 · **Open issues**: 518 · **Commits**: 16962
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 32 | 6 | 8 | 6 | 39 |
-| last60d | 2026-07-16 | 2 | 51 | 9 | 16 | 7 | 69 |
-| 90d | 2026-06-16 | 3 | 79 | 11 | 21 | 9 | 110 |
-| last180d | 2026-03-18 | 9 | 144 | 15 | 47 | 12 | 204 |
-| 360d | 2025-09-19 | 17 | 254 | 23 | 108 | 31 | 330 |
-| last720d | 2024-09-24 | 26 | 311 | 52 | 239 | 128 | 346 |
+| 30d | 2026-08-16 | 2 | 41 | 2 | 9 | 7 | 50 |
+| last60d | 2026-07-17 | 3 | 60 | 4 | 18 | 7 | 80 |
+| 90d | 2026-06-17 | 4 | 89 | 6 | 23 | 9 | 121 |
+| last180d | 2026-03-19 | 10 | 154 | 9 | 49 | 11 | 215 |
+| 360d | 2025-09-20 | 18 | 264 | 18 | 110 | 31 | 341 |
+| last720d | 2024-09-25 | 27 | 321 | 46 | 240 | 127 | 356 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [fastlane-2.239.0.gem](https://github.com/fastlane/fastlane/releases/download/2.239.0/fastlane-2.239.0.gem) | 1.1 MiB | `other` |
+| [fastlane-2.240.0.gem](https://github.com/fastlane/fastlane/releases/download/2.240.0/fastlane-2.240.0.gem) | 1.1 MiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:59:37Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:53:22Z._
