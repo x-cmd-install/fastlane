@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/fastlane/fastlane/releases/388295634",
-  "assets_url": "https://api.github.com/repos/fastlane/fastlane/releases/388295634/assets",
-  "upload_url": "https://uploads.github.com/repos/fastlane/fastlane/releases/388295634/assets{?name,label}",
-  "html_url": "https://github.com/fastlane/fastlane/releases/tag/2.240.0",
-  "id": 388295634,
+  "url": "https://api.github.com/repos/fastlane/fastlane/releases/389252776",
+  "assets_url": "https://api.github.com/repos/fastlane/fastlane/releases/389252776/assets",
+  "upload_url": "https://uploads.github.com/repos/fastlane/fastlane/releases/389252776/assets{?name,label}",
+  "html_url": "https://github.com/fastlane/fastlane/releases/tag/2.240.1",
+  "id": 389252776,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAaK_F84XJOvS",
-  "tag_name": "2.240.0",
+  "node_id": "RE_kwDOAaK_F84XM4ao",
+  "tag_name": "2.240.1",
   "target_commitish": "master",
-  "name": "2.240.0 Improvements",
+  "name": "2.240.1 Improvements",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-14T09:49:09Z",
-  "updated_at": "2026-09-14T09:59:33Z",
-  "published_at": "2026-09-14T09:59:32Z",
+  "created_at": "2026-09-15T15:03:05Z",
+  "updated_at": "2026-09-15T15:16:06Z",
+  "published_at": "2026-09-15T15:16:05Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/fastlane/fastlane/releases/assets/563106577",
-      "id": 563106577,
-      "node_id": "RA_kwDOAaK_F84hkFMR",
-      "name": "fastlane-2.240.0.gem",
+      "url": "https://api.github.com/repos/fastlane/fastlane/releases/assets/565944695",
+      "id": 565944695,
+      "node_id": "RA_kwDOAaK_F84hu6F3",
+      "name": "fastlane-2.240.1.gem",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,16 +65,16 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 1197568,
-      "digest": "sha256:9f3ead3cfd7f1fbf5c6acc3fe3ed398b5ce44b194e548a94fc4e0f2186c59c0b",
-      "download_count": 4,
-      "created_at": "2026-09-14T09:59:33Z",
-      "updated_at": "2026-09-14T09:59:33Z",
-      "browser_download_url": "https://github.com/fastlane/fastlane/releases/download/2.240.0/fastlane-2.240.0.gem"
+      "size": 1198080,
+      "digest": "sha256:cf792bc99ec6af6574ea416cda6530f519c8b4b3a46b1a3b52488ebf1696aa5c",
+      "download_count": 5,
+      "created_at": "2026-09-15T15:16:06Z",
+      "updated_at": "2026-09-15T15:16:06Z",
+      "browser_download_url": "https://github.com/fastlane/fastlane/releases/download/2.240.1/fastlane-2.240.1.gem"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/fastlane/fastlane/tarball/2.240.0",
-  "zipball_url": "https://api.github.com/repos/fastlane/fastlane/zipball/2.240.0",
-  "body": "* [fastlane_core] Fix for upload_to_testflight and altool - report failure, but upload succeeds (#30196) via Michal Šrůtek (@michalsrutek)\n* [ci] run full workflows on master as they stack (#30218) via Connor Tumbleson (@iBotPeaches)\n* chore: treat 'both' as 'all' for all 3 platforms (#30214) via Connor Tumbleson (@iBotPeaches)\n* [tests] Give each spec its own scratch directory instead of /tmp/fastlane (#30217) via Jerome Lacoste (@lacostej)\n* [tests] Stop a spec mutating the plist fixture another spec reads (#30215) via Jerome Lacoste (@lacostej)\n* [spaceship] Read the App Store Connect API key from where Apple keeps it now (#30206) via Jerome Lacoste (@lacostej)\n* [tests] Stop two spec files racing for the system clipboard (#30211) via Jerome Lacoste (@lacostej)\n* [spaceship] Say what actually went wrong fetching the App Store Connect API key (#30205) via Jerome Lacoste (@lacostej)\n* [core] Stop hardcoding /tmp where a real path is needed (#30209) via Jerome Lacoste (@lacostej)\n* Run the CI suite as several processes (#30202) via Jerome Lacoste (@lacostej)\n* Run the spec suite as several processes (#30191) via Jerome Lacoste (@lacostej)\n* [fastlane_core] Carry the pty exit status as a value rather than in $? (#30201) via Jerome Lacoste (@lacostej)\n* Stop two specs depending on process wide state another example populated (#30200) via Jerome Lacoste (@lacostej)\n* [spaceship] Use the system temporary directory instead of a literal /tmp (#30197) via Jerome Lacoste (@lacostej)\n* Stop two specs depending on files an earlier run left behind (#30195) via Jerome Lacoste (@lacostej)\n* Report the environment variables that escape the example that set them (#30194) via Jerome Lacoste (@lacostej)\n* Stop nine specs depending on what ran before them (#30193) via Jerome Lacoste (@lacostej)\n* Stop spaceship specs sharing clients and cached state (#30192) via Jerome Lacoste (@lacostej)\n* Stop specs depending on module level configuration another example left behind (#30190) via Jerome Lacoste (@lacostej)\n* build: move to Bundler 2.6.9 (#30185) via Connor Tumbleson (@iBotPeaches)\n* Define only the trainer fixture groups that apply to the current xcresulttool (#30183) via Jerome Lacoste (@lacostej)\n* Surface xcresulttool version detection failures instead of hiding them (#30182) via Jerome Lacoste (@lacostej)\n* Stop the pilot transporter specs querying the real Keychain (#30181) via Jerome Lacoste (@lacostej)\n* Fix flaky fastlane_pty_spec by applying the PTY flush workaround (#30180) via Jerome Lacoste (@lacostej)\n* [gym][scan][snapshot] Add disallow_xcodebuild_settings_lookup option (#30112) via Brett Best (@Brett-Best)\n* [gem] move to rubyzip v3 (#30176) via Connor Tumbleson (@iBotPeaches)\n* chore: update security gem to 0.2.0 (#30177) via Jerome Lacoste (@lacostej)\n* [ci] unset GEM_HOST_API_KEY for GHA publish (#30174) via Connor Tumbleson (@iBotPeaches)",
+  "tarball_url": "https://api.github.com/repos/fastlane/fastlane/tarball/2.240.1",
+  "zipball_url": "https://api.github.com/repos/fastlane/fastlane/zipball/2.240.1",
+  "body": "* [gem] add cgi gem for Ruby 4 std removal (#30232) via Connor Tumbleson (@iBotPeaches)\n* [deliver] keep an explicitly set platform when a pkg is present (#30224) via Anand Hegde (@anandghegde)\n* [match] upload certs immediatly to storage to prevent desync of files (#30160) via Connor Tumbleson (@iBotPeaches)\n* security gem 0.3.0 integration (#30178) via Jerome Lacoste (@lacostej)\n* build: prevent locking androidpublisher_v3 to 0.99.0 (#30228) via Connor Tumbleson (@iBotPeaches)\n* [tests] Keep the Tempfile, not only its path (#30227) via Jerome Lacoste (@lacostej)\n* [tests] Stop four specs writing into the shared temp root (#30225) via Jerome Lacoste (@lacostej)\n* [tests] Restore the working directory structurally in two specs (#30221) via Jerome Lacoste (@lacostej)\n* [tests] Remove the fixed paths under /tmp from the test suite (#30220) via Jerome Lacoste (@lacostej)\n* build(deps): bump actions/upload-artifact from 4 to 7 (#30222) via dependabot[bot] (@dependabot[bot])",
   "mentions_count": 4
 }
