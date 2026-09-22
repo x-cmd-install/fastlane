@@ -26,7 +26,7 @@ Total: **622,583** lines of code across **1784** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,140 · **Forks**: 6,032 · **Open issues**: 13,328 · **Contributors**: 1,376
+- **Stars**: 42,144 · **Forks**: 6,033 · **Open issues**: 13,329 · **Contributors**: 1,376
 
 ## Totals (cumulative)
 
-- **Releases**: 571 · **Merged PRs**: 6552 · **Open PRs**: 149 · **Closed issues**: 12811 · **Open issues**: 517 · **Commits**: 16982
+- **Releases**: 571 · **Merged PRs**: 6552 · **Open PRs**: 150 · **Closed issues**: 12811 · **Open issues**: 518 · **Commits**: 16982
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 3 | 59 | 6 | 13 | 10 | 68 |
-| last60d | 2026-07-23 | 4 | 78 | 6 | 21 | 10 | 94 |
-| 90d | 2026-06-23 | 5 | 100 | 8 | 24 | 11 | 128 |
-| last180d | 2026-03-25 | 11 | 172 | 12 | 53 | 14 | 234 |
-| 360d | 2025-09-26 | 19 | 282 | 21 | 112 | 33 | 362 |
-| last720d | 2024-10-01 | 26 | 333 | 47 | 238 | 127 | 361 |
+| 30d | 2026-08-23 | 3 | 59 | 7 | 13 | 11 | 68 |
+| last60d | 2026-07-24 | 4 | 77 | 7 | 21 | 11 | 94 |
+| 90d | 2026-06-24 | 5 | 99 | 9 | 24 | 12 | 128 |
+| last180d | 2026-03-26 | 11 | 172 | 13 | 53 | 15 | 234 |
+| 360d | 2025-09-27 | 19 | 282 | 22 | 112 | 34 | 362 |
+| last720d | 2024-10-02 | 26 | 333 | 48 | 235 | 128 | 361 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:47:26Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:43:46Z._
