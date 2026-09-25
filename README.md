@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,152 · **Forks**: 6,036 · **Open issues**: 13,329 · **Contributors**: 1,376
+- **Stars**: 42,156 · **Forks**: 6,036 · **Open issues**: 13,329 · **Contributors**: 1,376
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 3 | 57 | 8 | 12 | 11 | 68 |
-| last60d | 2026-07-26 | 4 | 77 | 8 | 21 | 11 | 94 |
-| 90d | 2026-06-26 | 5 | 98 | 10 | 24 | 12 | 128 |
-| last180d | 2026-03-28 | 11 | 172 | 14 | 53 | 15 | 234 |
-| 360d | 2025-09-29 | 19 | 282 | 23 | 111 | 34 | 362 |
-| last720d | 2024-10-04 | 25 | 332 | 49 | 231 | 128 | 357 |
+| 30d | 2026-08-26 | 3 | 57 | 8 | 12 | 11 | 68 |
+| last60d | 2026-07-27 | 4 | 76 | 8 | 21 | 11 | 94 |
+| 90d | 2026-06-27 | 5 | 97 | 10 | 24 | 12 | 128 |
+| last180d | 2026-03-29 | 11 | 172 | 14 | 53 | 15 | 234 |
+| 360d | 2025-09-30 | 19 | 282 | 23 | 111 | 34 | 362 |
+| last720d | 2024-10-05 | 25 | 332 | 49 | 230 | 128 | 356 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:27:09Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:34:30Z._
