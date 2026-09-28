@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.240.1` (2026-09-15)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-27
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 42,167 · **Forks**: 6,040 · **Open issues**: 13,329 · **Contributors**: 1,376
+- **Stars**: 42,170 · **Forks**: 6,039 · **Open issues**: 13,329 · **Contributors**: 1,376
 
 ## Totals (cumulative)
 
-- **Releases**: 571 · **Merged PRs**: 6558 · **Open PRs**: 149 · **Closed issues**: 12814 · **Open issues**: 515 · **Commits**: 16988
+- **Releases**: 571 · **Merged PRs**: 6559 · **Open PRs**: 154 · **Closed issues**: 12814 · **Open issues**: 515 · **Commits**: 16989
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 63 | 7 | 12 | 10 | 66 |
-| last60d | 2026-07-29 | 4 | 81 | 7 | 22 | 10 | 95 |
-| 90d | 2026-06-29 | 5 | 101 | 9 | 25 | 11 | 127 |
-| last180d | 2026-03-31 | 11 | 177 | 13 | 54 | 14 | 237 |
-| 360d | 2025-10-02 | 19 | 287 | 22 | 112 | 33 | 368 |
-| last720d | 2024-10-07 | 25 | 337 | 48 | 230 | 127 | 362 |
+| 30d | 2026-08-29 | 3 | 63 | 12 | 12 | 10 | 68 |
+| last60d | 2026-07-30 | 4 | 82 | 12 | 22 | 10 | 97 |
+| 90d | 2026-06-30 | 5 | 101 | 14 | 23 | 11 | 129 |
+| last180d | 2026-04-01 | 11 | 178 | 17 | 54 | 14 | 239 |
+| 360d | 2025-10-03 | 19 | 288 | 27 | 111 | 33 | 370 |
+| last720d | 2024-10-08 | 25 | 337 | 53 | 229 | 127 | 363 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:53:18Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:05:25Z._
