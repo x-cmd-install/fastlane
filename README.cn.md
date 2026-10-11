@@ -14,25 +14,25 @@ x install fastlane
 
 ## 代码洞察
 
-合计: **619,535** 行代码（覆盖前 5 种语言、共 **1774** 个文件）。
+合计: **619,576** 行代码（覆盖前 5 种语言、共 **1774** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 464,942 | 0 | 137 | 325 |
-| Ruby | 134,305 | 11,361 | 25,544 | 1317 |
-| Swift | 14,121 | 5,612 | 1,797 | 79 |
+| Ruby | 134,305 | 11,362 | 25,544 | 1317 |
+| Swift | 14,162 | 5,627 | 1,801 | 79 |
 | RubyHtml | 1,709 | 12 | 176 | 31 |
 | Java | 978 | 258 | 251 | 22 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.4 / 10**
+总评分: **8.3 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -42,34 +42,34 @@ x install fastlane
 
 ## 发布
 
-- **最新版本**: `2.240.1` (2026-09-15)
-- **最近提交**: 2026-10-09
+- **最新版本**: `2.241.0` (2026-10-10)
+- **最近提交**: 2026-10-10
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 42,220 · **Fork**: 6,041 · **开放 issue**: 13,347 · **贡献者**: 1,378
+- **Star**: 42,225 · **Fork**: 6,041 · **开放 issue**: 13,349 · **贡献者**: 1,378
 
 ## 累计统计
 
-- **发布数**: 571 · **已合并 PR**: 6667 · **开放 PR**: 152 · **已关闭 issue**: 12832 · **开放 issue**: 515 · **提交数**: 17096
+- **发布数**: 572 · **已合并 PR**: 6672 · **开放 PR**: 154 · **已关闭 issue**: 12832 · **开放 issue**: 517 · **提交数**: 17101
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 2 | 156 | 18 | 18 | 15 | 149 |
-| last60d | 2026-08-11 | 4 | 179 | 18 | 26 | 19 | 178 |
-| 90d | 2026-07-12 | 4 | 196 | 19 | 32 | 19 | 206 |
-| last180d | 2026-04-13 | 11 | 279 | 20 | 59 | 23 | 326 |
-| 360d | 2025-10-15 | 19 | 392 | 28 | 116 | 40 | 460 |
-| last720d | 2024-10-20 | 25 | 441 | 51 | 234 | 128 | 470 |
+| 30d | 2026-09-11 | 3 | 148 | 20 | 16 | 17 | 108 |
+| last60d | 2026-08-12 | 5 | 181 | 20 | 25 | 21 | 174 |
+| 90d | 2026-07-13 | 5 | 199 | 21 | 32 | 21 | 205 |
+| last180d | 2026-04-14 | 12 | 284 | 22 | 59 | 25 | 325 |
+| 360d | 2025-10-16 | 20 | 397 | 30 | 113 | 41 | 465 |
+| last720d | 2024-10-21 | 26 | 445 | 53 | 231 | 128 | 475 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [fastlane-2.240.1.gem](https://github.com/fastlane/fastlane/releases/download/2.240.1/fastlane-2.240.1.gem) | 1.1 MiB | `other` |
+| [fastlane-2.241.0.gem](https://github.com/fastlane/fastlane/releases/download/2.241.0/fastlane-2.241.0.gem) | 1.2 MiB | `other` |
 
 ## 改进这些数据
 
@@ -80,4 +80,4 @@ fastlane 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261010.yml` · 2026-10-10T06:28:04Z._
+_数据快照: `data/card/261011.yml` · 2026-10-11T06:19:15Z._
