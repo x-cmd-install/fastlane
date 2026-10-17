@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.241.1` (2026-10-15)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-16
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 42,249 · **Forks**: 6,040 · **Open issues**: 13,350 · **Contributors**: 1,379
+- **Stars**: 42,249 · **Forks**: 6,037 · **Open issues**: 13,350 · **Contributors**: 1,379
 
 ## Totals (cumulative)
 
-- **Releases**: 573 · **Merged PRs**: 6676 · **Open PRs**: 162 · **Closed issues**: 12833 · **Open issues**: 517 · **Commits**: 17105
+- **Releases**: 573 · **Merged PRs**: 6680 · **Open PRs**: 160 · **Closed issues**: 12833 · **Open issues**: 517 · **Commits**: 17109
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 130 | 28 | 10 | 14 | 112 |
-| last60d | 2026-08-17 | 5 | 179 | 28 | 24 | 21 | 178 |
-| 90d | 2026-07-18 | 6 | 199 | 29 | 33 | 21 | 209 |
-| last180d | 2026-04-19 | 13 | 284 | 30 | 58 | 25 | 329 |
-| 360d | 2025-10-21 | 21 | 399 | 38 | 112 | 41 | 469 |
-| last720d | 2024-10-26 | 26 | 448 | 60 | 222 | 125 | 476 |
+| 30d | 2026-09-17 | 2 | 125 | 26 | 9 | 13 | 114 |
+| last60d | 2026-08-18 | 5 | 183 | 26 | 24 | 21 | 180 |
+| 90d | 2026-07-19 | 6 | 203 | 27 | 33 | 21 | 211 |
+| last180d | 2026-04-20 | 12 | 287 | 28 | 57 | 25 | 331 |
+| 360d | 2025-10-22 | 21 | 403 | 36 | 112 | 41 | 471 |
+| last720d | 2024-10-27 | 26 | 452 | 58 | 222 | 125 | 480 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:09:02Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:55:15Z._
