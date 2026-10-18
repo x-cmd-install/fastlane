@@ -31,8 +31,8 @@ Overall score: **8.3 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.241.1` (2026-10-15)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 42,249 · **Forks**: 6,037 · **Open issues**: 13,350 · **Contributors**: 1,379
+- **Stars**: 42,254 · **Forks**: 6,037 · **Open issues**: 13,350 · **Contributors**: 1,379
 
 ## Totals (cumulative)
 
-- **Releases**: 573 · **Merged PRs**: 6680 · **Open PRs**: 160 · **Closed issues**: 12833 · **Open issues**: 517 · **Commits**: 17109
+- **Releases**: 573 · **Merged PRs**: 6681 · **Open PRs**: 159 · **Closed issues**: 12833 · **Open issues**: 517 · **Commits**: 17110
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 2 | 125 | 26 | 9 | 13 | 114 |
-| last60d | 2026-08-18 | 5 | 183 | 26 | 24 | 21 | 180 |
-| 90d | 2026-07-19 | 6 | 203 | 27 | 33 | 21 | 211 |
-| last180d | 2026-04-20 | 12 | 287 | 28 | 57 | 25 | 331 |
-| 360d | 2025-10-22 | 21 | 403 | 36 | 112 | 41 | 471 |
-| last720d | 2024-10-27 | 26 | 452 | 58 | 222 | 125 | 480 |
+| 30d | 2026-09-18 | 2 | 125 | 23 | 9 | 13 | 110 |
+| last60d | 2026-08-19 | 5 | 184 | 25 | 24 | 21 | 179 |
+| 90d | 2026-07-20 | 6 | 203 | 26 | 33 | 21 | 207 |
+| last180d | 2026-04-21 | 12 | 286 | 27 | 55 | 25 | 332 |
+| 360d | 2025-10-23 | 21 | 404 | 35 | 112 | 41 | 472 |
+| last720d | 2024-10-28 | 26 | 453 | 57 | 221 | 124 | 481 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:55:15Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:59:47Z._
