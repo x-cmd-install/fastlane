@@ -48,28 +48,37 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,277 · **Forks**: 6,043 · **Open issues**: 13,355 · **Contributors**: 1,377
+- **Stars**: 42,286 · **Forks**: 6,047 · **Open issues**: 13,356 · **Contributors**: 1,376
 
 ## Totals (cumulative)
 
-- **Releases**: 573 · **Merged PRs**: 6683 · **Open PRs**: 163 · **Closed issues**: 12834 · **Open issues**: 521 · **Commits**: 17112
+- **Releases**: 573 · **Merged PRs**: 6683 · **Open PRs**: 168 · **Closed issues**: 12834 · **Open issues**: 522 · **Commits**: 17112
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 123 | 26 | 10 | 16 | 113 |
-| last60d | 2026-08-23 | 5 | 186 | 29 | 25 | 25 | 182 |
-| 90d | 2026-07-24 | 6 | 204 | 29 | 33 | 25 | 210 |
-| last180d | 2026-04-25 | 12 | 284 | 31 | 54 | 28 | 335 |
-| 360d | 2025-10-27 | 21 | 406 | 39 | 113 | 44 | 475 |
-| last720d | 2024-11-01 | 26 | 455 | 61 | 221 | 127 | 483 |
+| 30d | 2026-09-23 | 2 | 123 | 31 | 10 | 17 | 113 |
+| last60d | 2026-08-24 | 5 | 186 | 34 | 25 | 26 | 182 |
+| 90d | 2026-07-25 | 6 | 204 | 34 | 33 | 26 | 210 |
+| last180d | 2026-04-26 | 12 | 284 | 36 | 54 | 29 | 335 |
+| 360d | 2025-10-28 | 21 | 406 | 44 | 113 | 45 | 474 |
+| last720d | 2024-11-02 | 26 | 455 | 66 | 221 | 127 | 483 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [fastlane-2.241.1.gem](https://github.com/fastlane/fastlane/releases/download/2.241.1/fastlane-2.241.1.gem) | 1.2 MiB | `other` |
+
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/fastlane). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.241.1` | ✅ latest |
+| Nix unstable | `2.240.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -80,4 +89,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:34:35Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:27:40Z._
