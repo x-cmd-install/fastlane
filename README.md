@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,286 · **Forks**: 6,047 · **Open issues**: 13,356 · **Contributors**: 1,376
+- **Stars**: 42,291 · **Forks**: 6,048 · **Open issues**: 13,357 · **Contributors**: 1,376
 
 ## Totals (cumulative)
 
-- **Releases**: 573 · **Merged PRs**: 6683 · **Open PRs**: 168 · **Closed issues**: 12834 · **Open issues**: 522 · **Commits**: 17112
+- **Releases**: 573 · **Merged PRs**: 6683 · **Open PRs**: 168 · **Closed issues**: 12834 · **Open issues**: 523 · **Commits**: 17112
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 123 | 31 | 10 | 17 | 113 |
-| last60d | 2026-08-24 | 5 | 186 | 34 | 25 | 26 | 182 |
-| 90d | 2026-07-25 | 6 | 204 | 34 | 33 | 26 | 210 |
-| last180d | 2026-04-26 | 12 | 284 | 36 | 54 | 29 | 335 |
-| 360d | 2025-10-28 | 21 | 406 | 44 | 113 | 45 | 474 |
-| last720d | 2024-11-02 | 26 | 455 | 66 | 221 | 127 | 483 |
+| 30d | 2026-09-24 | 2 | 123 | 31 | 10 | 18 | 113 |
+| last60d | 2026-08-25 | 5 | 184 | 34 | 24 | 27 | 182 |
+| 90d | 2026-07-26 | 6 | 204 | 34 | 33 | 27 | 210 |
+| last180d | 2026-04-27 | 12 | 282 | 36 | 53 | 30 | 335 |
+| 360d | 2025-10-29 | 21 | 405 | 44 | 113 | 46 | 474 |
+| last720d | 2024-11-03 | 26 | 455 | 66 | 221 | 127 | 483 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:27:40Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:16:11Z._
