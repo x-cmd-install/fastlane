@@ -32,7 +32,7 @@ x install fastlane
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install fastlane
 
 ## 流行度
 
-- **Star**: 42,299 · **Fork**: 6,046 · **开放 issue**: 13,357 · **贡献者**: 1,376
+- **Star**: 42,305 · **Fork**: 6,047 · **开放 issue**: 13,357 · **贡献者**: 1,376
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install fastlane
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 124 | 28 | 10 | 18 | 88 |
-| last60d | 2026-08-26 | 5 | 186 | 32 | 24 | 27 | 176 |
-| 90d | 2026-07-27 | 6 | 205 | 32 | 33 | 27 | 204 |
-| last180d | 2026-04-28 | 12 | 284 | 34 | 51 | 30 | 321 |
-| 360d | 2025-10-30 | 21 | 407 | 41 | 113 | 46 | 476 |
-| last720d | 2024-11-04 | 26 | 457 | 63 | 220 | 126 | 485 |
+| 30d | 2026-09-26 | 2 | 122 | 27 | 10 | 18 | 88 |
+| last60d | 2026-08-27 | 5 | 186 | 32 | 23 | 27 | 176 |
+| 90d | 2026-07-28 | 6 | 205 | 32 | 33 | 27 | 204 |
+| last180d | 2026-04-29 | 12 | 281 | 34 | 50 | 30 | 321 |
+| 360d | 2025-10-31 | 21 | 407 | 40 | 112 | 46 | 476 |
+| last720d | 2024-11-05 | 26 | 453 | 63 | 220 | 126 | 485 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ fastlane 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T05:14:09Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T05:24:53Z._

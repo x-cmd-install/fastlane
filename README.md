@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,299 · **Forks**: 6,046 · **Open issues**: 13,357 · **Contributors**: 1,376
+- **Stars**: 42,305 · **Forks**: 6,047 · **Open issues**: 13,357 · **Contributors**: 1,376
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 124 | 28 | 10 | 18 | 88 |
-| last60d | 2026-08-26 | 5 | 186 | 32 | 24 | 27 | 176 |
-| 90d | 2026-07-27 | 6 | 205 | 32 | 33 | 27 | 204 |
-| last180d | 2026-04-28 | 12 | 284 | 34 | 51 | 30 | 321 |
-| 360d | 2025-10-30 | 21 | 407 | 41 | 113 | 46 | 476 |
-| last720d | 2024-11-04 | 26 | 457 | 63 | 220 | 126 | 485 |
+| 30d | 2026-09-26 | 2 | 122 | 27 | 10 | 18 | 88 |
+| last60d | 2026-08-27 | 5 | 186 | 32 | 23 | 27 | 176 |
+| 90d | 2026-07-28 | 6 | 205 | 32 | 33 | 27 | 204 |
+| last180d | 2026-04-29 | 12 | 281 | 34 | 50 | 30 | 321 |
+| 360d | 2025-10-31 | 21 | 407 | 40 | 112 | 46 | 476 |
+| last720d | 2024-11-05 | 26 | 453 | 63 | 220 | 126 | 485 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:14:08Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:24:52Z._
