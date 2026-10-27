@@ -1,29 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: fastlane
-  visiblename: fastlane
-  version: 2.220.0
-  origversion: null
-  status: outdated
-  summary: Tool to automate building and releasing iOS and Android apps
-  maintainers:
-    - peter.romfeld.hk@gmail.com
-    - nixpkgs@nicknovitski.com
-    - shahrukh330@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: fastlane
-  visiblename: fastlane
-  version: 2.220.0
-  origversion: null
-  status: outdated
-  summary: A tool to automate building and releasing iOS and Android apps
-  maintainers:
-    - peter.romfeld.hk@gmail.com
-    - nixpkgs@nicknovitski.com
-    - shahrukh330@gmail.com
-  licenses:
-    - MIT
 - repo: aur
   srcname: fastlane
   binname: fastlane
@@ -40,7 +14,7 @@
 - repo: homebrew
   srcname: fastlane
   visiblename: fastlane
-  version: 2.241.1
+  version: 2.241.2
   origversion: null
   status: newest
   summary: Easiest way to build and release mobile apps
@@ -51,6 +25,32 @@
   origversion: null
   status: rolling
   summary: Easiest way to build and release mobile apps
+- repo: nix_stable_24_05
+  srcname: fastlane
+  visiblename: fastlane
+  version: 2.220.0
+  origversion: null
+  status: outdated
+  summary: A tool to automate building and releasing iOS and Android apps
+  maintainers:
+    - peter.romfeld.hk@gmail.com
+    - nixpkgs@nicknovitski.com
+    - shahrukh330@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: fastlane
+  visiblename: fastlane
+  version: 2.220.0
+  origversion: null
+  status: outdated
+  summary: Tool to automate building and releasing iOS and Android apps
+  maintainers:
+    - peter.romfeld.hk@gmail.com
+    - nixpkgs@nicknovitski.com
+    - shahrukh330@gmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_25_05
   srcname: fastlane
   visiblename: fastlane

@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/fastlane/fastlane/releases/413823762",
-  "assets_url": "https://api.github.com/repos/fastlane/fastlane/releases/413823762/assets",
-  "upload_url": "https://uploads.github.com/repos/fastlane/fastlane/releases/413823762/assets{?name,label}",
-  "html_url": "https://github.com/fastlane/fastlane/releases/tag/2.241.1",
-  "id": 413823762,
+  "url": "https://api.github.com/repos/fastlane/fastlane/releases/424427474",
+  "assets_url": "https://api.github.com/repos/fastlane/fastlane/releases/424427474/assets",
+  "upload_url": "https://uploads.github.com/repos/fastlane/fastlane/releases/424427474/assets{?name,label}",
+  "html_url": "https://github.com/fastlane/fastlane/releases/tag/2.241.2",
+  "id": 424427474,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAaK_F84YqnMS",
-  "tag_name": "2.241.1",
+  "node_id": "RE_kwDOAaK_F84ZTD_S",
+  "tag_name": "2.241.2",
   "target_commitish": "master",
-  "name": "2.241.1 Improvements",
+  "name": "2.241.2 Improvements",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-15T12:54:56Z",
-  "updated_at": "2026-10-15T13:07:53Z",
-  "published_at": "2026-10-15T13:07:51Z",
+  "created_at": "2026-10-26T15:10:05Z",
+  "updated_at": "2026-10-26T15:31:17Z",
+  "published_at": "2026-10-26T15:31:16Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/fastlane/fastlane/releases/assets/643900650",
-      "id": 643900650,
-      "node_id": "RA_kwDOAaK_F84mYSTq",
-      "name": "fastlane-2.241.1.gem",
+      "url": "https://api.github.com/repos/fastlane/fastlane/releases/assets/678591868",
+      "id": 678591868,
+      "node_id": "RA_kwDOAaK_F84ocn18",
+      "name": "fastlane-2.241.2.gem",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,16 +65,16 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 1208320,
-      "digest": "sha256:e8e97f3274d678c74d9e473b98d202621262c40dfce2b43b7a05afde7caa2ea5",
-      "download_count": 21,
-      "created_at": "2026-10-15T13:07:52Z",
-      "updated_at": "2026-10-15T13:07:53Z",
-      "browser_download_url": "https://github.com/fastlane/fastlane/releases/download/2.241.1/fastlane-2.241.1.gem"
+      "size": 1210880,
+      "digest": "sha256:9c23f6d1b4aa5d8570ff8584186d5fdb1fdf7a01dd7ad168501b43fe360fe122",
+      "download_count": 1,
+      "created_at": "2026-10-26T15:31:17Z",
+      "updated_at": "2026-10-26T15:31:17Z",
+      "browser_download_url": "https://github.com/fastlane/fastlane/releases/download/2.241.2/fastlane-2.241.2.gem"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/fastlane/fastlane/tarball/2.241.1",
-  "zipball_url": "https://api.github.com/repos/fastlane/fastlane/zipball/2.241.1",
-  "body": "* Revert \"[produce] Support App Store Connect API key for create/enable_services/disable_services\" (#30447) via Connor Tumbleson (@iBotPeaches)\n* [deliver] add iphone duo screenshot sizes (#30444) via Tim Shedor (@tshedor)\n* [snapshot] Add iPhone 18 Pro / Pro Max device names (#30443) via Emilia (@lazerwalker)\n* [ci] release: keep Bundler config out of the tracked .bundle/config (#30437) via Jerome Lacoste (@lacostej)\n* [ci] build: move openssl into group that release ignores (#30435) via Connor Tumbleson (@iBotPeaches)",
+  "tarball_url": "https://api.github.com/repos/fastlane/fastlane/tarball/2.241.2",
+  "zipball_url": "https://api.github.com/repos/fastlane/fastlane/zipball/2.241.2",
+  "body": "* [spec] Fix the Windows test job (#30475) via Jerome Lacoste (@lacostej)\n* [spaceship] Fix GHSA-m67f-ghvw-j7qp via Jerome Lacoste (@lacostej)\n* [Fastlane.Swift] Fix GHSA-gqqf-9mh3-3578 via Jerome Lacoste (@lacostej)\n* [match] Fix GHSA-hqmj-jmgc-wmwp via Jerome Lacoste (@lacostej)\n* Bump ruby/setup-ruby from 1.329.0 to 1.331.0 (#30473) via dependabot[bot] (@dependabot[bot])\n* Bump github/codeql-action/upload-sarif from 4.38.3 to 4.39.0 (#30472) via dependabot[bot] (@dependabot[bot])\n* [sigh] Skip installing provisioning profiles when not on macOS (#30463) via John Szumski (@jszumski)\n* [spaceship] prevent frozen error when logging response (#30460) via Connor Tumbleson (@iBotPeaches)\n* Bump ossf/scorecard-action from 2.4.4 to 2.5.0 (#30449) via dependabot[bot] (@dependabot[bot])\n* Bump ruby/setup-ruby from 1.327.0 to 1.329.0 (#30450) via dependabot[bot] (@dependabot[bot])\n* Bump github/codeql-action/upload-sarif from 4.38.2 to 4.38.3 (#30453) via dependabot[bot] (@dependabot[bot])\n* Bump actions/download-artifact from 8.0.1 to 8.0.2 (#30452) via dependabot[bot] (@dependabot[bot])\n* Bump actions/upload-artifact from 7.0.1 to 7.0.2 (#30451) via dependabot[bot] (@dependabot[bot])",
   "mentions_count": 4
 }
