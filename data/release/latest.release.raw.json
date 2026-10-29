@@ -76,5 +76,17 @@
   "tarball_url": "https://api.github.com/repos/fastlane/fastlane/tarball/2.241.2",
   "zipball_url": "https://api.github.com/repos/fastlane/fastlane/zipball/2.241.2",
   "body": "* [spec] Fix the Windows test job (#30475) via Jerome Lacoste (@lacostej)\n* [spaceship] Fix GHSA-m67f-ghvw-j7qp via Jerome Lacoste (@lacostej)\n* [Fastlane.Swift] Fix GHSA-gqqf-9mh3-3578 via Jerome Lacoste (@lacostej)\n* [match] Fix GHSA-hqmj-jmgc-wmwp via Jerome Lacoste (@lacostej)\n* Bump ruby/setup-ruby from 1.329.0 to 1.331.0 (#30473) via dependabot[bot] (@dependabot[bot])\n* Bump github/codeql-action/upload-sarif from 4.38.3 to 4.39.0 (#30472) via dependabot[bot] (@dependabot[bot])\n* [sigh] Skip installing provisioning profiles when not on macOS (#30463) via John Szumski (@jszumski)\n* [spaceship] prevent frozen error when logging response (#30460) via Connor Tumbleson (@iBotPeaches)\n* Bump ossf/scorecard-action from 2.4.4 to 2.5.0 (#30449) via dependabot[bot] (@dependabot[bot])\n* Bump ruby/setup-ruby from 1.327.0 to 1.329.0 (#30450) via dependabot[bot] (@dependabot[bot])\n* Bump github/codeql-action/upload-sarif from 4.38.2 to 4.38.3 (#30453) via dependabot[bot] (@dependabot[bot])\n* Bump actions/download-artifact from 8.0.1 to 8.0.2 (#30452) via dependabot[bot] (@dependabot[bot])\n* Bump actions/upload-artifact from 7.0.1 to 7.0.2 (#30451) via dependabot[bot] (@dependabot[bot])",
+  "reactions": {
+    "url": "https://api.github.com/repos/fastlane/fastlane/releases/424427474/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 1,
+    "eyes": 0
+  },
   "mentions_count": 4
 }
