@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1210880,
       "digest": "sha256:9c23f6d1b4aa5d8570ff8584186d5fdb1fdf7a01dd7ad168501b43fe360fe122",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T15:31:17Z",
       "updated_at": "2026-10-26T15:31:17Z",
       "browser_download_url": "https://github.com/fastlane/fastlane/releases/download/2.241.2/fastlane-2.241.2.gem"
