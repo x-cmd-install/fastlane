@@ -26,13 +26,13 @@ Total: **620,575** lines of code across **1784** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.2 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,344 · **Forks**: 6,052 · **Open issues**: 13,363 · **Contributors**: 1,382
+- **Stars**: 42,353 · **Forks**: 6,053 · **Open issues**: 13,363 · **Contributors**: 1,382
 
 ## Totals (cumulative)
 
-- **Releases**: 574 · **Merged PRs**: 6743 · **Open PRs**: 144 · **Closed issues**: 12840 · **Open issues**: 523 · **Commits**: 17174
+- **Releases**: 574 · **Merged PRs**: 6746 · **Open PRs**: 144 · **Closed issues**: 12840 · **Open issues**: 523 · **Commits**: 17177
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 119 | 12 | 5 | 18 | 86 |
-| last60d | 2026-09-04 | 6 | 240 | 14 | 26 | 30 | 238 |
-| 90d | 2026-08-05 | 7 | 257 | 14 | 32 | 30 | 269 |
-| last180d | 2026-05-07 | 12 | 329 | 16 | 50 | 33 | 373 |
-| 360d | 2025-11-08 | 22 | 463 | 21 | 111 | 49 | 543 |
-| last720d | 2024-11-13 | 27 | 506 | 43 | 219 | 127 | 545 |
+| 30d | 2026-10-05 | 3 | 114 | 11 | 5 | 16 | 89 |
+| last60d | 2026-09-05 | 5 | 243 | 14 | 26 | 30 | 241 |
+| 90d | 2026-08-06 | 7 | 258 | 14 | 32 | 30 | 272 |
+| last180d | 2026-05-08 | 12 | 332 | 16 | 50 | 33 | 376 |
+| 360d | 2025-11-09 | 22 | 465 | 21 | 111 | 49 | 546 |
+| last720d | 2024-11-14 | 27 | 509 | 43 | 219 | 126 | 548 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:38:13Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:59:23Z._
