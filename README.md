@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.241.2` (2026-10-26)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-11
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 42,383 · **Forks**: 6,056 · **Open issues**: 13,364 · **Contributors**: 1,379
+- **Stars**: 42,385 · **Forks**: 6,055 · **Open issues**: 13,367 · **Contributors**: 1,379
 
 ## Totals (cumulative)
 
-- **Releases**: 574 · **Merged PRs**: 6784 · **Open PRs**: 157 · **Closed issues**: 12852 · **Open issues**: 512 · **Commits**: 17217
+- **Releases**: 574 · **Merged PRs**: 6785 · **Open PRs**: 157 · **Closed issues**: 12853 · **Open issues**: 514 · **Commits**: 17218
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 94 | 23 | 4 | 11 | 120 |
-| last60d | 2026-09-12 | 5 | 252 | 29 | 23 | 22 | 246 |
-| 90d | 2026-08-13 | 6 | 289 | 29 | 39 | 22 | 298 |
-| last180d | 2026-05-15 | 11 | 358 | 31 | 56 | 24 | 405 |
-| 360d | 2025-11-16 | 22 | 499 | 36 | 120 | 40 | 581 |
-| last720d | 2024-11-21 | 27 | 545 | 57 | 227 | 113 | 588 |
+| 30d | 2026-10-13 | 2 | 94 | 23 | 5 | 13 | 121 |
+| last60d | 2026-09-13 | 5 | 250 | 29 | 24 | 24 | 247 |
+| 90d | 2026-08-14 | 6 | 289 | 29 | 38 | 24 | 299 |
+| last180d | 2026-05-16 | 11 | 359 | 31 | 56 | 26 | 406 |
+| 360d | 2025-11-17 | 22 | 497 | 36 | 120 | 42 | 582 |
+| last720d | 2024-11-22 | 27 | 546 | 57 | 228 | 115 | 589 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/fastlane). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/fastlane). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +89,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:23:39Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:28:36Z._
