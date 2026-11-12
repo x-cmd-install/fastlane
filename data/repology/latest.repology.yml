@@ -2,9 +2,9 @@
   srcname: fastlane
   binname: fastlane
   visiblename: fastlane
-  version: 2.241.0
-  origversion: 2.241.0-1
-  status: outdated
+  version: 2.241.2
+  origversion: 2.241.2-1
+  status: newest
   summary: The easiest way to automate beta deployments and releases for your iOS and Android apps
   maintainers:
     - farwayer@aur
