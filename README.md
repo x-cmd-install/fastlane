@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.241.2` (2026-10-26)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-12
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 42,385 · **Forks**: 6,055 · **Open issues**: 13,367 · **Contributors**: 1,379
+- **Stars**: 42,389 · **Forks**: 6,054 · **Open issues**: 13,367 · **Contributors**: 1,379
 
 ## Totals (cumulative)
 
-- **Releases**: 574 · **Merged PRs**: 6785 · **Open PRs**: 157 · **Closed issues**: 12853 · **Open issues**: 514 · **Commits**: 17218
+- **Releases**: 574 · **Merged PRs**: 6786 · **Open PRs**: 158 · **Closed issues**: 12853 · **Open issues**: 514 · **Commits**: 17219
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 94 | 23 | 5 | 13 | 121 |
-| last60d | 2026-09-13 | 5 | 250 | 29 | 24 | 24 | 247 |
-| 90d | 2026-08-14 | 6 | 289 | 29 | 38 | 24 | 299 |
-| last180d | 2026-05-16 | 11 | 359 | 31 | 56 | 26 | 406 |
-| 360d | 2025-11-17 | 22 | 497 | 36 | 120 | 42 | 582 |
-| last720d | 2024-11-22 | 27 | 546 | 57 | 228 | 115 | 589 |
+| 30d | 2026-10-14 | 2 | 93 | 24 | 4 | 13 | 122 |
+| last60d | 2026-09-14 | 5 | 245 | 30 | 23 | 23 | 248 |
+| 90d | 2026-08-15 | 6 | 287 | 30 | 38 | 24 | 300 |
+| last180d | 2026-05-17 | 11 | 359 | 32 | 56 | 26 | 407 |
+| 360d | 2025-11-18 | 22 | 497 | 37 | 120 | 42 | 583 |
+| last720d | 2024-11-23 | 27 | 547 | 58 | 228 | 114 | 590 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:28:36Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:29:26Z._
