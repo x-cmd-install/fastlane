@@ -1,10 +1,17 @@
+- repo: homebrew
+  srcname: fastlane
+  visiblename: fastlane
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Easiest way to build and release mobile apps
 - repo: aur
   srcname: fastlane
   binname: fastlane
   visiblename: fastlane
   version: 2.241.2
   origversion: 2.241.2-1
-  status: newest
+  status: outdated
   summary: The easiest way to automate beta deployments and releases for your iOS and Android apps
   maintainers:
     - farwayer@aur
@@ -14,16 +21,9 @@
 - repo: homebrew
   srcname: fastlane
   visiblename: fastlane
-  version: 2.241.2
+  version: 2.242.0
   origversion: null
   status: newest
-  summary: Easiest way to build and release mobile apps
-- repo: homebrew
-  srcname: fastlane
-  visiblename: fastlane
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Easiest way to build and release mobile apps
 - repo: nix_stable_24_05
   srcname: fastlane
