@@ -48,7 +48,7 @@ x install fastlane
 
 ## 流行度
 
-- **Star**: 42,511 · **Fork**: 6,064 · **开放 issue**: 13,376 · **贡献者**: 1,385
+- **Star**: 42,514 · **Fork**: 6,063 · **开放 issue**: 13,376 · **贡献者**: 1,385
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install fastlane
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 120 | 6 | 9 | 10 | 133 |
-| last60d | 2026-09-25 | 4 | 264 | 14 | 25 | 22 | 264 |
-| 90d | 2026-08-26 | 7 | 329 | 14 | 46 | 24 | 348 |
-| last180d | 2026-05-28 | 11 | 395 | 16 | 64 | 25 | 440 |
-| 360d | 2025-11-29 | 21 | 516 | 21 | 125 | 41 | 604 |
-| last720d | 2024-12-04 | 28 | 590 | 40 | 232 | 110 | 633 |
+| 30d | 2026-10-26 | 2 | 107 | 6 | 9 | 9 | 133 |
+| last60d | 2026-09-26 | 4 | 262 | 13 | 25 | 22 | 264 |
+| 90d | 2026-08-27 | 7 | 329 | 14 | 45 | 24 | 348 |
+| last180d | 2026-05-29 | 11 | 394 | 16 | 64 | 25 | 440 |
+| 360d | 2025-11-30 | 21 | 516 | 21 | 125 | 41 | 604 |
+| last720d | 2024-12-05 | 28 | 590 | 40 | 231 | 109 | 632 |
 
 ## Release 资产
 
@@ -71,15 +71,6 @@ x install fastlane
 |------|-----:|----------|
 | [fastlane-2.242.0.gem](https://github.com/fastlane/fastlane/releases/download/2.242.0/fastlane-2.242.0.gem) | 1.2 MiB | `other` |
 | [fastlane-2.242.0.gem.sigstore.json](https://github.com/fastlane/fastlane/releases/download/2.242.0/fastlane-2.242.0.gem.sigstore.json) | 11.0 KiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/fastlane) 上共有 **9** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `2.240.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -90,4 +81,4 @@ fastlane 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:22:28Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:16:33Z._

@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 42,511 · **Forks**: 6,064 · **Open issues**: 13,376 · **Contributors**: 1,385
+- **Stars**: 42,514 · **Forks**: 6,063 · **Open issues**: 13,376 · **Contributors**: 1,385
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 120 | 6 | 9 | 10 | 133 |
-| last60d | 2026-09-25 | 4 | 264 | 14 | 25 | 22 | 264 |
-| 90d | 2026-08-26 | 7 | 329 | 14 | 46 | 24 | 348 |
-| last180d | 2026-05-28 | 11 | 395 | 16 | 64 | 25 | 440 |
-| 360d | 2025-11-29 | 21 | 516 | 21 | 125 | 41 | 604 |
-| last720d | 2024-12-04 | 28 | 590 | 40 | 232 | 110 | 633 |
+| 30d | 2026-10-26 | 2 | 107 | 6 | 9 | 9 | 133 |
+| last60d | 2026-09-26 | 4 | 262 | 13 | 25 | 22 | 264 |
+| 90d | 2026-08-27 | 7 | 329 | 14 | 45 | 24 | 348 |
+| last180d | 2026-05-29 | 11 | 394 | 16 | 64 | 25 | 440 |
+| 360d | 2025-11-30 | 21 | 516 | 21 | 125 | 41 | 604 |
+| last720d | 2024-12-05 | 28 | 590 | 40 | 231 | 109 | 632 |
 
 ## Release assets
 
@@ -71,15 +71,6 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [fastlane-2.242.0.gem](https://github.com/fastlane/fastlane/releases/download/2.242.0/fastlane-2.242.0.gem) | 1.2 MiB | `other` |
 | [fastlane-2.242.0.gem.sigstore.json](https://github.com/fastlane/fastlane/releases/download/2.242.0/fastlane-2.242.0.gem.sigstore.json) | 11.0 KiB | `other` |
-
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/fastlane). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `2.240.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -90,4 +81,4 @@ Install metadata for fastlane lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:22:27Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:16:32Z._
