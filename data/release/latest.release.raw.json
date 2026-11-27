@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1215488,
       "digest": "sha256:c1df04d5ba83049b239c9979727c2adf05f19e8bd8ad9e183a3df27029d16d2e",
-      "download_count": 49,
+      "download_count": 51,
       "created_at": "2026-11-16T15:32:45Z",
       "updated_at": "2026-11-16T15:32:45Z",
       "browser_download_url": "https://github.com/fastlane/fastlane/releases/download/2.242.0/fastlane-2.242.0.gem"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11290,
       "digest": "sha256:2d1c57ef1e2a7889e53b6a25ccb919c113fea275960f62bfd5776e383b0f5e8c",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-11-16T15:32:54Z",
       "updated_at": "2026-11-16T15:32:54Z",
       "browser_download_url": "https://github.com/fastlane/fastlane/releases/download/2.242.0/fastlane-2.242.0.gem.sigstore.json"
